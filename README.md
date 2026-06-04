@@ -15,6 +15,7 @@ It helps students, parents, and visitors quickly find answers to queries such as
 
 The chatbot is built using **Flask + Python (backend)**, **HTML/CSS/JS/Bootstrap (frontend)**, and **MySQL (database)**.  
 It provides a simple web interface where users can chat with the bot, ask questions, and also give feedback through a **suggestion box**.  
+Live link:https://college-enquiry-chatbot-qgo6.onrender.com/ 
 
 <br>
 
